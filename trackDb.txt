@@ -1,0 +1,7 @@
+track ForebrainEnhancers
+type bed 4
+shortLabel Forebrain Enhancers
+longLabel Predicted Human Forebrain Enhancers
+visibility dense
+dataUrl https://github.com/abbasiam77/ForebrainEnhancersHub/raw/main/Forebrain_enhancers.bed
+
