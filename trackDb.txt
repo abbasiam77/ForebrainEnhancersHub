@@ -1,5 +1,5 @@
 track ForebrainEnhancers
-type bed 6
+type bed
 shortLabel Forebrain Enhancers
 longLabel Predicted Human Forebrain Enhancers
 visibility dense
