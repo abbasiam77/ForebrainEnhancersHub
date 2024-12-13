@@ -2,4 +2,4 @@ hub ForebrainEnhancersHub
 shortLabel Forebrain Enhancers
 longLabel Human Forebrain Enhancer Predictions Track Hub
 genomesFile genomes.txt
-email abbasiam@qau.edu.ok
+email abbasiam@qau.edu.pk
