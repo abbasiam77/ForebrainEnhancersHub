@@ -1,1 +1,2 @@
-hg38
+genome hg38
+trackDb https://raw.githubusercontent.com/abbasiam77/ForebrainEnhancersHub/main/trackDb.txt
