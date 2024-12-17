@@ -1,6 +1,6 @@
 hub ForebrainEnhancersHub
-shortLabel Forebrain Enhancers
-longLabel Human Predicted Forebrain Enhancers Track Hub
+shortLabel Forebrain Enhancer Tracks
+longLabel Predicted Forebrain Enhancers for Human Genome
 genomesFile genomes.txt
 email abbasiam@qau.edu.pk
-description Human Forebrain Enhancers predictions based on computational analysis
+description predicted human Forebrain enhancers
