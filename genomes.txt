@@ -1,6 +1,5 @@
 hub ForebrainEnhancersHub
 shortLabel Forebrain Enhancer Tracks
 longLabel Predicted Forebrain Enhancers for Human Genome
-email abbasiam@qau.edu.pk
 genome hg19
 trackDb https://raw.githubusercontent.com/abbasiam77/ForebrainEnhancersHub/main/trackDb.txt
