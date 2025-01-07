@@ -5,3 +5,4 @@ longLabel Predicted Human Forebrain Enhancers
 visibility dense
 color 255,0,0
 bigDataUrl https://raw.githubusercontent.com/abbasiam77/ForebrainEnhancersHub/main/Forebrain_Enhancers.bb
+html https://abbasiam77.github.io/ForebrainEnhancersHub_1/description.html
