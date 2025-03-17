@@ -1,9 +1,3 @@
-hub ForebrainEnhancersHub
-shortLabel Forebrain Enhancer Tracks
-longLabel Predicted Forebrain Enhancers for Human Genome
-genomesFile genomes.txt
-email abbasiam@qau.edu.pk
-
 track ForebrainEnhancers
 type bigBed
 shortLabel Forebrain Enhancers
