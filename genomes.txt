@@ -2,3 +2,4 @@ genome hg19
 trackDb https://raw.githubusercontent.com/abbasiam77/ForebrainEnhancersHub/main/trackDb.txt
 hub https://github.com/abbasiam77/ForebrainEnhancersHub
 email abbasiam@qau.edu.pk
+shortLabel Forebrain Enhancer Tracks
