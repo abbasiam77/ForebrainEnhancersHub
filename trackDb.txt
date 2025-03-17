@@ -12,12 +12,3 @@ visibility dense
 color 255,0,0
 bigDataUrl https://raw.githubusercontent.com/abbasiam77/ForebrainEnhancersHub/main/Forebrain_Enhancers.bb
 html https://abbasiam77.github.io/ForebrainEnhancersHub_1/description.html
-
-track WG_2614_HFG_Enhancers
-type bigBed
-shortLabel WG_2614 HFG Enhancers
-longLabel WG_2614 HFG Enhancers (Forebrain enhancers harboring the HES5-FOXP2-GATA3 triad pattern)
-visibility dense
-color 0,0,255
-bigDataUrl https://raw.githubusercontent.com/abbasiam77/ForebrainEnhancersHub/main/WG_2614_HFG_Enhancers_hg19.bb
-html https://abbasiam77.github.io/ForebrainEnhancersHub_1/WG_2614_HFG_Enhancers_description.html
