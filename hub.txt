@@ -4,5 +4,5 @@ longLabel Predicted Forebrain Enhancers for Human Genome
 genomesFile genomes.txt
 email abbasiam@qau.edu.pk
 description predicted human Forebrain enhancers
-descriptionUrl https://abbasiam77.github.io/ForebrainEnhancersHub_1/description.html
+descriptionUrl https://abbasiam77.github.io/ForebrainEnhancersHub_1/combined_description.html
 trackDb https://raw.githubusercontent.com/abbasiam77/ForebrainEnhancersHub/main/trackDb.txt
