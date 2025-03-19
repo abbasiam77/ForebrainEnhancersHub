@@ -3,6 +3,15 @@ shortLabel Forebrain Enhancer Tracks
 longLabel Predicted Forebrain Enhancers for Human Genome
 genomesFile genomes.txt
 email abbasiam@qau.edu.pk
-description predicted human Forebrain enhancers
-descriptionUrl https://abbasiam77.github.io/ForebrainEnhancersHub_1/description.html
+description Predicted human Forebrain enhancers
+descriptionUrl https://abbasiam77.github.io/ForebrainEnhancersHub_1/description.html  # First dataset description URL
+trackDb https://raw.githubusercontent.com/abbasiam77/ForebrainEnhancersHub/main/trackDb.txt
+
+hub ForebrainEnhancerHFGHub
+shortLabel Forebrain Enhancer HFG Tracks
+longLabel Predicted Forebrain Enhancers with HES5-FOXP2-GATA3 Binding Syntax
+genomesFile genomes.txt
+email abbasiam@qau.edu.pk
+description Human Forebrain Enhancers with HES5-FOXP2-GATA3 Binding Syntax
+descriptionUrl https://abbasiam77.github.io/-ForebrainEnhancer-HFG-TrackHub/Description%20file.htm  # Second dataset description URL
 trackDb https://raw.githubusercontent.com/abbasiam77/ForebrainEnhancersHub/main/trackDb.txt
