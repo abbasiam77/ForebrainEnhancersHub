@@ -4,7 +4,7 @@ shortLabel Forebrain Enhancers
 longLabel Predicted Human Forebrain Enhancers
 visibility dense
 color 255,0,0
-bigDataUrl https://raw.githubusercontent.com/abbasiam77/ForebrainEnhancersHub/main/Forebrain_Enhancers.bb
+bigDataUrl https://raw.githubusercontent.com/abbasiam77/ForebrainEnhancersHub/main/Predicted_FB_enhancers_hg19.bb
 html https://abbasiam77.github.io/ForebrainEnhancersHub_1/combined_description.html#forebrain-enhancers
 
 track HFG_Enhancers
