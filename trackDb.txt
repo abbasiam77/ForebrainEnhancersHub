@@ -5,7 +5,7 @@ longLabel Predicted Human Forebrain Enhancers
 visibility dense
 color 255,0,0
 bigDataUrl https://raw.githubusercontent.com/abbasiam77/ForebrainEnhancersHub/main/Predicted_FB_enhancers_hg19.bb
-html https://abbasiam77.github.io/ForebrainEnhancersHub_1/combined_description.html#forebrain-enhancers
+html https://abbasiam77.github.io/ForebrainEnhancersHub_1/combined_description.html
 
 track HFG_Enhancers
 type bigBed
@@ -14,4 +14,4 @@ longLabel Predicted Forebrain Enhancers with HES5-FOXP2-GATA3 Binding Syntax
 visibility dense
 color 0,0,255
 bigDataUrl https://raw.githubusercontent.com/abbasiam77/ForebrainEnhancersHub/main/WG_2614_HFG_Enhancers_hg19.bb
-html https://abbasiam77.github.io/ForebrainEnhancersHub_1/combined_description.html#hfg-enhancers
+html https://abbasiam77.github.io/ForebrainEnhancersHub_1/combined_description.html
